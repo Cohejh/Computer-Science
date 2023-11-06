@@ -1,2 +1,2 @@
-# CS_Resources
-Just a bunch of resources for CS
+# Computer Science
+Just a bunch of resources for CS projects.
